@@ -5,9 +5,9 @@
 !*.*
 
 # Ignore all in sub-dir
-/**/*
+/1.1/*
 # Unignore all with extensions in sub-dir
-!/**/*.*
+!/1.1/*.*
 
 # Unignore all dirs
 !*/**/
