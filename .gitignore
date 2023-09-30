@@ -3,5 +3,5 @@
 !*/*.cpp    #unignore .cpp files in each directory
 !*/*.py     #unignore .cpp files in each directory
 !.gitignore #unignore .gitignore
-!media/*.*  #unignore readme.md file
+!*.md  #unignore readme.md file
 !media/*.*  #unignore media folder
