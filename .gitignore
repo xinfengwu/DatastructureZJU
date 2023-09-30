@@ -4,6 +4,11 @@
 # Unignore all with extensions
 !*.*
 
+# Ignore all in sub-dir
+/**/*
+# Unignore all with extensions in sub-dir
+!/**/*.*
+
 # Unignore all dirs
 !*/**/
 
@@ -13,11 +18,3 @@
 *.class
 *.exe
 *.out
-
-# Ignore `bin` dir
-bin/
-# or
-*/bin/*
-
-# Unignore all `.exe` in `bin` dir
-!*/bin/*.exe
