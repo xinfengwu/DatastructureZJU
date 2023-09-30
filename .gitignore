@@ -1,16 +1,16 @@
 # Ignore all
-*
+#*
 
 # Unignore all with extensions
-!*.*
+#!*.*
 
 # Ignore all in sub-dir
-/1.1/*
+#/1.1/*
 # Unignore all with extensions in sub-dir
-!/1.1/*.*
+#!/1.1/*.*
 
 # Unignore all dirs
-!*/**/
+#!*/**/
 
 ### Above combination will ignore all files without extension ###
 
